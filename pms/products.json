@@ -1,0 +1,12 @@
+[
+  { "id": 3, "name": "Nokia Lumia", "price": 23491, "quantity": 125 },
+  { "id": 4, "name": "Realme A1", "price": 27000, "quantity": 128 },
+  { "id": 5, "name": "MI A51", "price": 24300, "quantity": 23 },
+  { "id": 6, "name": "Nokia Lumia", "price": 23491, "quantity": 125 },
+  { "id": 7, "name": "Nokia Lumia", "price": 23491, "quantity": 125 },
+  { "id": 8, "name": "Realme A1", "price": 27000, "quantity": 128 },
+  { "id": 9, "name": "Realme A1", "price": 27000, "quantity": 128 },
+  { "id": 10, "name": "Samsung M71", "price": 24300, "quantity": 202 },
+  { "id": 11, "name": "Nokia Lumia", "price": 23491, "quantity": 125 },
+  { "id": 12, "name": "Realme A1", "price": 27000, "quantity": 128 }
+]
